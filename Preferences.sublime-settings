@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"ASP",
+		"Vintage",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
+	"update_check": false,
+	"word_wrap": true
+}
